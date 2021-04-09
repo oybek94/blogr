@@ -209,4 +209,82 @@ html {
    background-color: #ffffff;
    color: #FF505C;
 }
- 
+
+/* FUTURE SECTION */
+
+.future {
+   background: url("/images/illustration-editor-desktop.svg") 140% center no-repeat;
+   padding-top: 80px;
+   padding-bottom: 100px;
+}
+
+.future__main-title {
+   margin-bottom: 90px;
+   font-size: 40px;
+   line-height: 61px;
+   text-align: center;
+   letter-spacing: -1.2px;
+}
+
+.future-info {
+
+}
+
+.info {
+   width: 540px;
+   margin-bottom: 64px;
+}
+
+.info__title {
+   margin-top: 0;
+   font-size: 28px;
+   line-height: 28px;
+   color: #1F3E5A;
+}
+
+.info__text {
+   font-weight: 300;
+   letter-spacing: 0.5px;
+}
+
+
+/* INFRASTRUCTURE SECTION */
+
+.infrastructure {
+   background: linear-gradient(135deg, rgba(45, 46, 64, 0.95), rgba(63, 65, 100, 0.95)),   
+   url("/images/bg-pattern-circles.svg") -30% 80% no-repeat;
+   border-radius: 0px 100px;
+   height: 400px;
+}
+
+.content {
+   display: flex;
+   position: relative;
+   align-items: center;
+   justify-content: space-between;
+   color: #fff;
+}
+
+.mobile {
+   position: relative;
+   left: 0;
+   top: -50px;
+}
+
+.infrastructure-desc {
+   margin-left: 50px;
+   margin-bottom: 80px;
+}
+
+.infrastructure-title {
+   margin-bottom: 0; 
+   font-size: 40px;
+   line-height: 61px;
+   letter-spacing: -1.2px;
+}
+
+.infrastructure-text {
+   font-weight: 300;
+   letter-spacing: 0.5px;
+   width: 540px;
+}
