@@ -356,9 +356,6 @@ html {
    padding: 0;
 }
 
-.footer-link__item {
-}
-
 .footer-link__link {
    opacity: 0.75;
    font-family: var(--second-font);
